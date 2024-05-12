@@ -1,5 +1,5 @@
-public class App {
+public class variaveis {
     public static void main(String[] args) throws Exception {
-        System.out.println("Boa vindas time");
+        System.out.println("Hello, World!");
     }
 }
